@@ -30,7 +30,7 @@ git clone https://github.com/questairdrop/Kardpay.git
 ```
 - Make sure you already in bot folder:
 ```bash
-cd kardpay-autoref
+cd Kardpay
 ```
 - Install requirements, Windows and Termux:
 ```bash
